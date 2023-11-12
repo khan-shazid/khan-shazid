@@ -5,7 +5,7 @@
 ## <div align="center"> Obydul Islam Khan</div>
 
 <div align="center">
-Full Stack Engineer | React | Next | TypeScript | React Native | WebOS | Laravel | MySQL | Node | Docker 👨‍💻 working since 2017 🚀</div>
+Full Stack Engineer | Frontend Engineer | React | Next | TypeScript | React Native | WebOS | Laravel | MySQL | Node | Docker 👨‍💻 working since 2017 🚀</div>
 
 <br>
 <div align="center">
